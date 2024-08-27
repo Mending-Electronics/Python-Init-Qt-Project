@@ -1,0 +1,1 @@
+call Scripts\activate.bat && @echo off && @echo. && cd UI && for %%f in (*.ui) do (pyuic5 -x %%f -o %%~nf.py && echo %%f converted to %%~nf.py))

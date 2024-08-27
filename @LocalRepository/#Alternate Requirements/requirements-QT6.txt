@@ -1,0 +1,4 @@
+PyQt6
+pyqt6-tools
+pyuic5-tool
+PyQt-Fluent-Widgets
